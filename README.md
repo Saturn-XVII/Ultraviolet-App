@@ -16,4 +16,4 @@ If you are deploying to an alternative service or to a server, refer to [Deploy 
 
 Additional information such as [customizing your frontend](https://github.com/titaniumnetwork-dev/Ultraviolet-App/wiki/Customizing-your-frontend) can be found on the [wiki](https://github.com/titaniumnetwork-dev/Ultraviolet-App/wiki).
 
-this is Pandora or Urbigmumz i have added a ```Vercel.json``` file to the main branch so it now works on <a href="vercel.com" target="_blank">vercel.com</a>
+this is Urbigmumz i have added a ```Vercel.json``` file to the main branch so it now works on <a href="vercel.com" target="_blank">vercel.com</a>
